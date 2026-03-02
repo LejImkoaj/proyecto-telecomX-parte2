@@ -228,20 +228,19 @@ Contactar clientes con alta probabilidad de cancelación.
 ## 📁 Estructura del Proyecto
 
 ```
-churn-prediction/
+proyecto-telecomX-parte2/
 │
 ├── data/
 │   └── telecomX_ready_for_analysis.csv
 │
 ├── notebooks/
-│   └── churn_analysis.ipynb
+│   └── telecomX_parte2_LATAM.ipynb
 │
 ├── models/
-│   └── trained_models.pkl
+│   └── champion.pkl
 │
 ├── README.md
-│
-└── requirements.txt
+
 ```
 
 ---
