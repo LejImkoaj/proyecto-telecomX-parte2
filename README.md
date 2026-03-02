@@ -253,13 +253,7 @@ proyecto-telecomX-parte2/
 git clone https://github.com/LejImkoaj/proyecto-telecomX-parte2.git
 ```
 
-### 2. Instalar dependencias
-
-```
-pip install -r requirements.txt
-```
-
-### 3. Ejecutar notebook
+### 2. Ejecutar notebook
 
 ```
 jupyter notebook
