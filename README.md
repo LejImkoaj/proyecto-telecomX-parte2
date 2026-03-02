@@ -251,7 +251,7 @@ churn-prediction/
 ### 1. Clonar repositorio
 
 ```
-git clone https://github.com/tuusuario/churn-prediction
+git clone https://github.com/LejImkoaj/proyecto-telecomX-parte2.git
 ```
 
 ### 2. Instalar dependencias
