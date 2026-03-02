@@ -5,7 +5,7 @@
 
 Este proyecto tiene como objetivo desarrollar un sistema de Machine Learning capaz de predecir la cancelación de clientes (Churn) en una empresa de telecomunicaciones - telecomX, identificar los factores que más influyen en la cancelación y proponer estrategias de retención basadas en los resultados.
 
-La cancelación de clientes representa una pérdida significativa de ingresos, por lo que anticiparla permite a las empresas implementar acciones preventivas y mejorar la fidelización.
+La cancelación de clientes representa una pérdida significativa de ingresos, por lo que anticiparla permite a la empresa implementar acciones preventivas y mejorar la fidelización.
 
 ---
 
